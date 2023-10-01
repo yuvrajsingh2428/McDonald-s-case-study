@@ -1,8 +1,9 @@
-# McDonald's Case Study(#https://drive.google.com/file/d/1SIEt4Bp_4R9dcs4saU1DIui1IKWQIW38/view?usp=sharing)
-
+# McDonald's Case Study
+![png-transparent-fast-food-mcdonald-s-logo-golden-arches-restaurant-mcdonalds-mcdonald-s-logo-miscellaneous-food-company-thumbnail](https://github.com/yuvrajsingh2428/McDonald-s-case-study/assets/75690761/0b7ba311-ccfe-496c-917f-9a081e30f04f)(https://drive.google.com/file/d/1SIEt4Bp_4R9dcs4saU1DIui1IKWQIW38/view?usp=sharing)
 ## Project Name
 
 Market Segmentation Analysis with McDonald's Fast Food Data
+
 
 
 
